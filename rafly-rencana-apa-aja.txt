@@ -1,6 +1,10 @@
 rencana apa aja
 -random
 -main game
+ ^vue
+ ^react
 -proplayer
 -melawak
 -konsisten dalam membuat cerita
+-item game moba
+ 
