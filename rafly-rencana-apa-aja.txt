@@ -1,5 +1,6 @@
 rencana apa aja
 -random
 -main game
+-proplayer
 -melawak
 -konsisten dalam membuat cerita
