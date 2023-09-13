@@ -5,6 +5,8 @@ rencana apa aja
  ^react
 -proplayer
 -melawak
+ ^angular
+ ^react
 -konsisten dalam membuat cerita
 -item game moba
- 
+
