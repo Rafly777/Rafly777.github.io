@@ -3,4 +3,7 @@ rencana apa aja
 -main game
 -proplayer
 -melawak
+ ^angular
+ ^react
 -konsisten dalam membuat cerita
+-item game moba
